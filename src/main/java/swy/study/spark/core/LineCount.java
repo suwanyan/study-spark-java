@@ -1,4 +1,4 @@
-package swy.spark.spark_study_java.core;
+package swy.study.spark.core;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaPairRDD;

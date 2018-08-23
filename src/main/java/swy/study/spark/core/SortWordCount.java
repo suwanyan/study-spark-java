@@ -1,4 +1,4 @@
-package swy.spark.spark_study_java.core;
+package swy.study.spark.core;
 
 import java.util.Arrays;
 
